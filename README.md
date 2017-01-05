@@ -30,17 +30,13 @@ http://arstechnica.com/information-technology/2016/12/amazons-demented-plans-for
 
 ---
 
-###Misc Picks
-
-http://www.sfgate.com/bayarea/article/2017-new-California-laws-uber-cell-phones-orcas-10825407.php
-
----
-
-###Cool picks
-
-[TWiV](http://www.microbe.tv/twiv/)
+###Host recommends
 
 [Brian Douglas: Control System Lecture](https://www.youtube.com/user/ControlLectures)
+
+[Sperm-sized nano-sculptures](http://www.zmescience.com/other/great-pics/sperm-sized-nano-sculptures-defy-boundary-myth-reality/) (Featured on Quite Interesting: N07 - Naked Truth)
+
+[TWiV](http://www.microbe.tv/twiv/)
 
 [Find your Congressional Representative, and communicate easily](https://usecalltoaction.com)
 
