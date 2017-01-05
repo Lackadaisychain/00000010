@@ -26,6 +26,10 @@ http://arstechnica.com/information-technology/2016/12/amazons-demented-plans-for
  http://www.sfgate.com/bayarea/article/2017-new-California-laws-uber-cell-phones-orcas-10825407.php
 ---
 ###Cool picks
+[TWiV](http://www.microbe.tv/twiv/)
+
+[Brian Douglas: Control System Lecture](https://www.youtube.com/user/ControlLectures)
+
 [Find your Congressional Representative, and communicate easily](https://usecalltoaction.com)
 
 [Investagitive journalist featuring Congress: ***"Resisting the corporate takeover of the world"***](www.congressionaldish.com)
